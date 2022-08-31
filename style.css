@@ -1,0 +1,16 @@
+img {
+  width: 300;
+  height: 300;
+}
+
+div {
+  margin-top: 20px;
+  background-color: rgb(170, 167, 167);
+  padding: 30px;
+  border-radius: 7px;
+  font-size: 22px;
+  margin-left: 250px;
+}
+ul {
+  list-style-type: none;
+}
