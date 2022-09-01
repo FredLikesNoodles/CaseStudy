@@ -14,3 +14,7 @@ div {
 ul {
   list-style-type: none;
 }
+
+#conclusion {
+  margin-right: 200px !important;
+}
